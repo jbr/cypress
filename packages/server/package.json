@@ -42,7 +42,7 @@
     "eol": "^0.9.1",
     "express-session": "^1.14.1",
     "express-useragent": "^1.0.4",
-    "https-proxy-agent": "^1.0.0",
+    "https-proxy-agent": "^5.0.0",
     "inquirer": "3.0.6",
     "istanbul": "^0.4.2",
     "mockery": "^1.4.0",
